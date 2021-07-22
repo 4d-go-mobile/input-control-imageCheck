@@ -1,0 +1,8 @@
+{
+    "name": "imageCheck",
+    "type": "boolean",
+    "inject": true,
+    "capabilities": {
+          "service": "ImageCheckRowService"
+      }
+  }
