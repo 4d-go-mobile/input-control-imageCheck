@@ -1,7 +1,5 @@
-# CurrentLocationAddressRow
+# ImageCheck
 
-Action parameter input control that auto fill the current location address.
+Example to use image for boolean
 
 ![preview](formatter.png)
-
-The field is not editable by user.
