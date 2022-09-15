@@ -4,5 +4,6 @@
     "inject": true,
     "capabilities": {
           "service": "ImageCheckRowService"
-      }
+      },	
+      "target" : ["ios", "android"]
   }
