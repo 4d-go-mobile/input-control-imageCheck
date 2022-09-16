@@ -3,13 +3,13 @@ package ___PACKAGE___
 import android.view.View
 import android.widget.ImageView
 import androidx.core.content.ContextCompat
-import com.qmobile.qmobiledatasync.utils.BaseInputControl
-import com.qmobile.qmobiledatasync.utils.InputControl
+import com.qmobile.qmobiledatasync.utils.BaseKotlinInputControl
+import com.qmobile.qmobiledatasync.utils.KotlinInputControl
 import com.qmobile.qmobileui.ui.setOnSingleClickListener
 import com.qmobile.sample4dapp.R
 
-@InputControl
-class ImageCheck(view: View) : BaseInputControl {
+@KotlinInputControl
+class ImageCheck(view: View) : BaseKotlinInputControl {
 
     override val autocomplete: Boolean = true
 
