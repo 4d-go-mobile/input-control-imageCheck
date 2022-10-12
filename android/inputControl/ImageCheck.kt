@@ -6,7 +6,7 @@ import androidx.core.content.ContextCompat
 import com.qmobile.qmobiledatasync.utils.BaseKotlinInputControl
 import com.qmobile.qmobiledatasync.utils.KotlinInputControl
 import com.qmobile.qmobileui.ui.setOnSingleClickListener
-import com.qmobile.sample4dapp.R
+import ___APP_PACKAGE___.R
 
 @KotlinInputControl
 class ImageCheck(view: View) : BaseKotlinInputControl {
